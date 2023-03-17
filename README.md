@@ -1,2 +1,0 @@
-# testik
-testichek
